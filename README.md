@@ -1,8 +1,9 @@
 ## FragmentSwiper
 
 ## Project description
-Simple simple android.
-Implemeted use-cases:
+Simple android app.
+
+#Implemeted use-cases:
 * Create a new fragment with max page number +1.
 * Create a notification with text "notification and number of page".
 * Delete fragment and all notifications which was created from that fragment. 
