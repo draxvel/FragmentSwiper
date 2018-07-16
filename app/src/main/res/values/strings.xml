@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="create_new_notification">Create new\nnotification</string>
+    <string name="rectangle">Rectangle</string>
+    <string name="page_number">PAGE_NUMBER</string>
+    <string name="page_count">PAGE_COUNT</string>
+</resources>
